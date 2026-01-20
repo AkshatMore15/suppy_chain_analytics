@@ -1,10 +1,3 @@
-Got it 👍
-I’ll **edit and polish this README**, keep the **core structure**, make it sound **original and professional**, **remove all blog post mentions**, fix language, and make it feel like **your own Business Analyst project** (not a copy).
-
-You can directly replace your `README.md` with the version below.
-
----
-
 # 📦 Supply Chain Analytics Project
 
 *End-to-End Business Analysis & Dashboarding*
