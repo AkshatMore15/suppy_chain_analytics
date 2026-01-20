@@ -1,5 +1,6 @@
 # 📦 Supply Chain Analytics Project
-(/Tableau_Dashboard.png)
+![Tableau Dashboard](Tableau_Dashboard.png)
+
 *End-to-End Business Analysis & Dashboarding*
 
 ---
